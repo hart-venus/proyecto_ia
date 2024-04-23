@@ -1,2 +1,4 @@
 .vscode/
 kaggle.json
+venv
+./venv
